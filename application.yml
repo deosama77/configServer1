@@ -1,0 +1,6 @@
+microservicer:
+  name: user
+  endpoints:
+    endpoint:
+      uri: http://USER-SERVICE:8082/user
+   
